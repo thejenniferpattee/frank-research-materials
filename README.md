@@ -4,7 +4,7 @@ Frank, the AI-assisted screener for ADHD research materials
 
 **What it is:**
 
-A data-only repo for FRANK RESEARCH MATERIALS content: XXX
+A data-only repo for FRANK RESEARCH MATERIALS CONTENT: XXX
 
 **What’s real vs planned:**
 
