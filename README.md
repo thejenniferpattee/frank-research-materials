@@ -4,7 +4,7 @@ Frank, the AI-assisted screener for ADHD research materials
 
 **What it is:**
 
-A data-only repo for FRANK RESEARCH MATERIALS CONTENT: XXX
+Data-only repo for IRB-aligned docs, study protocols, measures list, consent language drafts, Qualtrics exports, analysis notebooks, posters, paper drafts. 
 
 **What’s real vs planned:**
 
