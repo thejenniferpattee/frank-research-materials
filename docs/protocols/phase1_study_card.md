@@ -1,7 +1,7 @@
 # Frank Phase 1 Study Card
 
 ## Study Name
-**Frank Phase 1: Student willingness to use an AI assisted ADHD screener and psychoeducation tool**
+**Frank Phase 1: Student willingness to use an AI assisted ADHD screener**
 
 ## One Sentence Purpose
 Test whether college students are willing to use Frank, and what design factors predict trust, comfort, and intent to seek help.
