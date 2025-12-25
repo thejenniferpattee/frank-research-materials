@@ -47,22 +47,25 @@ Under 18, Anyone who does not provide consent.
 
 ## Key Measures
 - **Willingness and likelihood to use**: Custom items such as likelihood to try, likelihood to recommend, likelihood to use if struggling, likelihood to use if a friend asked.
-- **Acceptability, appropriateness, feasibility**: Use brief implementation outcomes measures if you are using them, or parallel custom items if you are not.
+- **Acceptability, appropriateness, feasibility**: Use brief implementation outcomes measures
 - **Trust and comfort with disclosure**: Perceived safety, perceived benefit, perceived risk, and comfort answering sensitive questions.
 - **Privacy and governance concerns**: Fear of data misuse, who might access data, retention concerns, and clarity of consent.
 
 ## Suggested Hypotheses
-- **H1**: Students will show moderate to high willingness to try an AI-assisted screener when the tool is framed as educational and non-diagnostic.
+- **H1**: Students will show moderate to high willingness to try an AI-assisted screener when the tool is framed as fast, free, kind, and easy.
 - **H2**: Clear privacy posture and clear boundaries will predict higher trust and higher willingness.
 - **H3**: Perceived stigma and fear of data misuse will predict lower willingness and lower comfort with disclosure.
 - **H4**: Students with prior frustration accessing assessment will show higher willingness than those without that experience.
 
 ## Planned Analysis
-- Descriptive statistics for willingness, acceptability, trust, and concerns.
-- Scale reliability checks if you are using multi-item composites.
-- Correlations between willingness and trust, perceived benefit, perceived risk, and privacy concerns.
-- Group comparisons if collected and powered, such as prior ADHD diagnosis, prior assessment experience, or year in school.
-- Qualitative coding of open-ended responses into themes that inform redesign priorities.
+
+- **Descriptive statistics** for willingness, acceptability, trust, and concerns.
+- **Correlations** between willingness and trust, perceived benefit, perceived risk, and privacy concerns.
+- **Group comparisons** (if collected and powered), such as:
+  - **Prior assessment experience** or **year in school**.
+  - **Race** and **gender** to explore if these variables correlate with willingness to use the AI-assisted ADHD screener.
+- **Qualitative coding** of open-ended responses into themes that inform redesign priorities.
+
 
 ## Ethics and Risk Management
 - Non-clinical framing. No diagnosis. No treatment advice.
@@ -71,7 +74,7 @@ Under 18, Anyone who does not provide consent.
 - Explicitly state confidentiality limits and data handling in plain language.
 
 ## Data Handling
-- No identifiers unless required for incentives, and if collected, store separately from responses.
+- No identifiers, and if collected, store separately from responses.
 - Store only de-identified survey data.
 - No raw text that could identify a person in the public repo.
 - Publish only synthetic examples, schemas, and aggregated results.
@@ -82,7 +85,7 @@ Under 18, Anyone who does not provide consent.
 - Summary poster in preparation.
 - Short paper or report in preparation.
 
-## Limitations You Will State Up Front
+## Limitations
 - Intent to use is not the same as real-world use.
 - Single campus sample may not generalize.
 - Self-report measures and concept exposure can inflate positivity.
@@ -91,6 +94,6 @@ Under 18, Anyone who does not provide consent.
 ## Fast Next Steps Checklist
 - Finalize the concept stimulus and screenshots.
 - Finalize measures and the measures registry.
-- Run a quick pilot with a tiny convenience sample to catch confusion in consent and wording.
+- Run quick pilot with a tiny convenience sample to catch confusion in consent and wording.
 - Launch recruitment.
 
