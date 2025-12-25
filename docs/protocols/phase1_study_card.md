@@ -51,7 +51,7 @@ Under 18, Anyone who does not provide consent.
 - **Trust and comfort with disclosure**: Perceived safety, perceived benefit, perceived risk, and comfort answering sensitive questions.
 - **Privacy and governance concerns**: Fear of data misuse, who might access data, retention concerns, and clarity of consent.
 
-## Suggested Hypotheses
+## Hypotheses
 - **H1**: Students will show moderate to high willingness to try an AI-assisted screener when the tool is framed as fast, free, kind, and easy.
 - **H2**: Clear privacy posture and clear boundaries will predict higher trust and higher willingness.
 - **H3**: Perceived stigma and fear of data misuse will predict lower willingness and lower comfort with disclosure.
