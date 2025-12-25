@@ -21,7 +21,7 @@ Are students willing to use an AI-mediated screening and psychoeducation experie
 Fort Lewis College students (adult participants).
 
 ## Recruitment Plan
-Campus channels approved by IRB, such as email lists, flyers, class announcements, and student groups, with a single survey link.
+Campus channels approved by IRB, such as class announcements and student groups, with a single survey link.
 
 ## Study Design
 Cross-sectional survey with a short standardized product concept exposure. Participants review a brief description of Frank plus sample screens or a short demo, then complete measures.
